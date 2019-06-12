@@ -1,9 +1,9 @@
 {
-    "name": "Progressive Web App Starter",
-    "short_name": "PWA Starter",
-    "description": "Get up and running with PWAs quickly!",
+    "name": "Tuscany",
+    "short_name": "Tuscany",
+    "description": "Beautiful land in Italy",
     "scope": ".",
-    "start_url": "/pwa-starter",
+    "start_url": "/pwa-starter-wip",
     "display": "standalone",
     "orientation": "portrait", 
     "background_color": "#ffffff",
